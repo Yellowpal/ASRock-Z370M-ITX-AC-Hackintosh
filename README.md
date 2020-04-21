@@ -20,7 +20,7 @@ Clover：5112
 | 散热 | ID-COOLING IS-40X  |
 | 机箱 | K39+显卡延长线     |
 
-关于跑分可参看
+关于跑分可参看：[伪3500组一台itx黑苹果](https://blog.yellowpal.win/posts/伪3500组一台itx黑苹果/)
 
 # 使用方式
 
