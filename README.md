@@ -1,5 +1,8 @@
 # 更新
 
+# 2020-06-22
+转为使用OpenCore，本项目不在维护。OC项目：https://github.com/Yellowpal/ASRock-Z370M-ITX-AC-OpenCore
+
 # 2020-04-20 版本1.0.0
 
 系统：10.15.4
